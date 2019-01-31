@@ -10,11 +10,11 @@ Set Node Scan Interval On Network Sensor
 #. Go to **System > Sensor** in the left System Management window
 #. Click **Network Sensor IP**
 
-Under **Settings** tab
+Under **Settings** tab:
 
 #. Click **Sensor Settings**
 
-Under **Node Scan**
+Under **Node Scan**:
 
 #. For **Update Interval**, edit time interval (*1 minute - 1 year*)
 #. Click **Update**
@@ -25,18 +25,18 @@ Set SNMP Settings For SNMP Scan
 #. Go to **Preferences** in the top panel
 #. Go to **General > Node** in the left Preferences window
 
-Under **SNMP**
+Under **SNMP**:
 
 #. For **SNMP Community** enter read/write community string(*e.g. public,private*)
 #. For **Collecting Network Information**, needs to remain **On** (*If set to Off SNMP information will not be collected*)
 #. For **Update Interval**, edit time interval (*5 minutes – 1 year*)
-#. For **Time Group**, specify time group
+#. For **Time Object**, specify time object
 #. Click **Run Now** button for SNMP to scan instantly
 
 Use SNMPWALK on Windows machine To Verify Switch Response
 ---------------------------------------------------------
 
-.. note:: If a Switch fails to populate in Switch List, first check Switch Community strings on switch, then run a SNMPWALK
+.. note:: If a Switch fails to populate in Switch List, first check Switch Community strings on switch, then run a SNMPWALK.
 
 #. Login to your **Switch** and verify it’s SNMP Community strings
 #. Verify **Genian NAC** has correct **SNMP Community strings** set

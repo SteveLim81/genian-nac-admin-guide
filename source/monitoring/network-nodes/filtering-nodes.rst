@@ -33,4 +33,4 @@ You can hide unnecessary categories that are not in use
 #. **Drag and Drop** unwanted categories from **Selected to Available**
 #. Click **Update** 
 
-.. note:: Customized status & filters only affect the view of the current administrator
+.. note:: Customized status & filters only affect the view of the current administrator.

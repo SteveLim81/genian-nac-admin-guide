@@ -1,18 +1,9 @@
 Connecting Command Line Interface
 =================================
+.. attention:: SSH access only allowed from Approved IP.
+ See: :doc:`/system/default-settings-appliance` to add approved remote access sources.
 
-You can connect to the Genian NAC Appliance from Windows using a downloaded SSH client, or from MacOS using Terminal.
+You can connect to the Genians policy server or network sensor from a dedicated SSH client or any command line with SSH support. 
 
-Connecting to Command Line Interface Using SSH Client
------------------------------------------------------
-
-#. Open **SSH Client**
-#. Add **IP Address** of **Policy Server** using **Port 22**
-#. Enter **Username** and **Password** then **enable** and Password again
-
-Connecting to Command Line Interface From MacOS
------------------------------------------------
-
-#. Open **Terminal**
-#. Enter **ssh (username)@(ip address)**
-#. Enter **Password** then **enable** and Password again
+#. Use standard procedure for your chosen utility to select SSH connection to your Genians policy server or network sensor IP Address.
+#. Log in with Genians NAC Username and password.

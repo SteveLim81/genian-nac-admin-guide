@@ -10,7 +10,7 @@ You can send notifications using Syslog information when a specific log is gener
 #. For **Server IP**, type the server IP Address where notifications will be sent
 #. For **Protocol**, select desired protocol (*TCP, UDP*)
 #. For **Server Port**, type 514 for UDP and 6514 for TCP(TLS)
-#. For **SNMP Message**, type optional message for SNMP Trap
+#. For **SYSLOG Message**, type optional message.
 #. For **Character Set**, choose desired option 
 #. Click **Update**
 

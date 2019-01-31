@@ -13,22 +13,19 @@ Audtior
 To Create an Administrator Role
 -------------------------------
 
-#. Go to Policy in the top panel
-#. Go to Group > User in the left Policy panel
+#. Go to Preferences in the top panel
+#. Go to User Authentication > Administrator Role in the left Policy panel
 #. Click Tasks > Create
-#. Click Add
+#. Configure basic permission options. (More precise permission controls available on account level)
 #. Click Save
 
 To Assign an Administrator Role
 -------------------------------
 
-#. Go to Policy in the top panel
-#. Go to Group > User in the left Policy panel
-#. Find User and click Checkbox
-#. Click Tasks > Assign User Group
-#. Find Action section in the Assign to User group window. Click Assign to User Group
-#. Find User Group section in the Assign to User group window. Highlight User Group
-#. Click Save
+#. Go to Management > User in the top panel
+#. Find User and click Username
+#. Under General tab, select Administrator Role from the drop down menu.
+#. Click Update
 
 To Delete an Administrator Role
 -------------------------------

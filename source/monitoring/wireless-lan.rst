@@ -10,11 +10,9 @@ Network Sensor with built-in Wireless Adapter scans the network and detects all 
    wireless-lan/searching-ssids
    
    wireless-lan/wlanstatus-filters
-   wireless-lan/connected-stations
+   wireless-lan/viewing-stations.rst
    
    wireless-lan/ssid-location
    wireless-lan/internal-ssid
-   wireless-lan/browsing-stations
-   wireless-lan/searching-stations
    
    wireless-lan/wireless-groups

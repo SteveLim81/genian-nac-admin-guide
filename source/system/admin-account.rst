@@ -59,4 +59,28 @@ Remove Administrator
 #. Click **Tasks > Remove User**
 #. Click **Ok**
 
+To Configure Administrator Role Options
+---------------------------------------
+
+#. Select user from main page under Management > User in the top panel
+#. Click the Administrator tab. (Only visible with active Administrator Role assigned)
+
+* Configure General settings:
+
+ * Add approved Ip's for Web Console access
+ * 2 step authentication 
+ * Time zone
+
+* Configure Notification settings:
+
+ * Enable/ Disable notifications for user account or IP requests.
+ * Mobile phones to receive notifications
+ * Sender phone number
+ * Email to receive notifications
+
+* Configure Management Restrictions:
+
+ * Specify permissions within Management Console. 
+
+
 .. _Create Tag: https://docs.genians.com/monitoring/network-nodes/tagging-nodes.html?highlight=tag#create-tag

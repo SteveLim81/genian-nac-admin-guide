@@ -1,7 +1,7 @@
 Browsing Sensor IP Status
 =========================
 
-You can browse through **Network Sensors** and see current status from the **IPAM** panel
+You can browse through **Network Sensors** and see current status from the **IPAM** panel.
 
 To Find the Overall Status of IP usage by Network Sensor Per Network
 --------------------------------------------------------------------

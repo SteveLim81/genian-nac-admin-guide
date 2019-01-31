@@ -6,7 +6,7 @@ Dashboards are a collection of Widgets. Dashboards give you an overview of the r
 Export Dashboards
 -----------------
 
-You can export Dashboards into several formats
+You can export Dashboards into several formats:
 
 #. Click **Dashboard** in the top panel
 #. Select **Dashboard** tab you choose to export

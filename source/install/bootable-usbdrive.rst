@@ -1,5 +1,7 @@
 Create a  USB drive
-===========================
+===================
+
+.. caution:: All files in the USB drive will be deleted during the process so back up your files from the USB Drive to move forward.
 
 .. caution:: All files in the USB drive will be deleted during the process so back up your files from the USB Drive to move forward.
 

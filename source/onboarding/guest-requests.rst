@@ -36,3 +36,17 @@ Reject Guest Requests
 #. Go to **User Account Request > Request** in the left Request Management panel
 #. Find **Requests** in the User Account Request window. Click **Checkbox**
 #. Click **Tasks > Reject All**
+
+Enable Request notification and response from Administrator email
+-----------------------------------------------------------------
+
+.. note:: Outbound email and admin email notification settings must both be configured.See :doc:`/system/email` , :doc:`/system/admin-account`
+
+ Enterprise license required.
+
+#. Go to **Preferences** in the top panel
+#. Go to **Purpose > User** in the left Policy panel
+#. Find and enable **Email Approval for guest** in the main window
+#. Designate approver, expiry and request fields.
+#. Click **Assign**
+

@@ -7,7 +7,7 @@ You can create new ports, delete ports, and Enable/Disable these ports.
 Current Port Status
 -------------------
 
-Port Scans are updated when the Node Scan is run
+Port Scans are updated when the Node Scan is run.
 
 #. Go to **Preferences** in the top panel
 #. Go to **General > Node > Port Scan** in the left Preferences panel
@@ -15,7 +15,7 @@ Port Scans are updated when the Node Scan is run
 Creating New Ports
 ------------------
 
-You can create new ports as needed if they are not already displayed
+You can create new ports as needed if they are not already displayed.
 
 #. Go to **Preferences** in the top panel
 #. Go to **General > Node > Port Scan** in the left Preferences panel
@@ -38,7 +38,7 @@ Deleting Ports
 Enabling Ports
 --------------
 
-Enable ports to turn on and actively scan
+Enable ports to turn on and actively scan.
 
 #. Go to **Preferences** in the top panel
 #. Go to **General > Node > Port Scan** in the left Preferences panel
@@ -48,7 +48,7 @@ Enable ports to turn on and actively scan
 Disabling Ports
 ---------------
 
-Disable ports to turn off and not scan
+Disable ports to turn off and not scan.
 
 #. Go to **Preferences** in the top panel
 #. Go to **General > Node > Port Scan** in the left Preferences panel

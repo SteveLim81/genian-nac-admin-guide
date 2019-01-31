@@ -11,6 +11,7 @@ Basic Commands
 ====================== =============================================================================
 Command	               Explanation
 ====================== =============================================================================
+enable                  Enables Global Congifuration mode
 exit	                 Exits the current mode
 help	                 Displays available commands
 history	               Displays a list of past commands used
@@ -31,7 +32,7 @@ kill pid	             Terminates process based on pid
 kill pname	           Terminates process based on the name
 ping	                 Generates an ICMP request for IP test to a remote device
 reboot	               Reboots the system
-restart	               Restarts the OS
+restart	system          Restarts the OS
 shutdown service	     Terminates the Insights OS service
 traceroute	           Displays the routing path for IP
 show	                 Proceed to show command section

@@ -52,7 +52,7 @@ Under **General** tab
 #. Manually enter **Platform Name**
 #. Click **Update**
 
-.. note:: In Node View you will now see a Icon next to name in the Platform Column. This Icon will indicate this has been manually defined
+.. note:: In Node View you will now see a Icon next to name in the Platform Column. This Icon will indicate this has been manually defined.
 
 Create a User-defined Node Type
 -------------------------------
@@ -63,7 +63,7 @@ Create a User-defined Node Type
 #. Enter a **Name** and select an **Icon** (*Click **Add** to upload your own icon*)
 #. Click **Save**
 
-.. note:: A User-defined Node Type must be defined manually and added to the Node
+.. note:: A User-defined Node Type must be defined manually and added to the node.
 
 #. Go to **Management > Node** in the top panel
 #. Click on desired node **IP Address**
@@ -87,7 +87,7 @@ In case there is no matching pattern in our GPDB, you can send that Nodes inform
 Disable Reporting Unknown Platform
 ----------------------------------
 
-By default, Genian NAC sends a Report Wrong Platform for unknown Platform Nodes every day. All sent information is readable from outside of the device. To deactivate sending a Report Wrong Platform  to the Genian Cloud, follow these steps
+By default, Genian NAC sends a Report Wrong Platform for unknown Platform Nodes every day. All sent information is readable from outside of the device. To deactivate sending a Report Wrong Platform  to the Genian Cloud, follow these steps:
 
 #. Go to **Preferences** in the top panel
 #. Go to **General > Node** in the left Preferences panel

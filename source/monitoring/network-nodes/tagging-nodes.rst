@@ -27,7 +27,7 @@ Tag for Node
 #. Find and click **Checkbox** of desired **Tag** (*You can choose more then one*)
 #. Click **Save**
 
-.. note:: In this window you can select options from the drop-down to edit current Tag Settings
+.. note:: In this window you can select options from the drop-down to edit current Tag Settings.
 
 Tag for MAC
 -----------
@@ -41,4 +41,4 @@ Under **IPAM** tab, **MAC Policy**
 #. Find and click **Checkbox** of desired **Tag** (*You can choose more then one*)
 #. Click **Save**
 
-.. note:: When assigning a tag to a specific MAC address, all nodes with that MAC address will automatically be tagged as well
+.. note:: When assigning a tag to a specific MAC address, all nodes with that MAC address will automatically be tagged as well.

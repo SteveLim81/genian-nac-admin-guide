@@ -14,4 +14,4 @@ Under **General** tab
 #. For **Description field**, enter a description
 #. Click **Update**
 
-.. note:: In order to change a Description, the read/write Community string for that Switch must be specified
+.. note:: In order to change a Description, the read/write Community string for that Switch must be specified.

@@ -10,7 +10,7 @@ Find Nodes by Network Sensor
 #. Go to **Sensor** tab in left panel
 #. Find and click **Name** or **IP** of Network Sensor
 
-.. note:: You will see the Nodes in the main Node view based off of the Network Sensors location
+.. note:: You will see the Nodes in the main Node view based off of the Network Sensors location.
 
 Edit and Create Subfolders for Multiple Sensors
 -----------------------------------------------
@@ -38,7 +38,7 @@ Find Nodes by Node Group
    - **Compliance**
    - **Uncategorized**
 
-.. note:: These are provided by default, but you can create other Node Groups by going to `Creating Node Groups`_
+.. note:: These are provided by default, but you can create others by going to :doc:`/monitoring/network-nodes/creating-nodegroups`.
 
 Edit and Create Node Categories for Sensors and Node Groups
 -----------------------------------------------------------
@@ -53,5 +53,3 @@ Edit and Create Node Categories for Sensors and Node Groups
 
 #. Search and click **Checkbox**
 #. Click **OK**
-
-.. _Creating Node Groups: https://www.genians.com/docs/administrators-guide/?section=creating-node-groups

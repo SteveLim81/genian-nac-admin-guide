@@ -8,4 +8,4 @@ You can administratively shutdown **Switch Ports**
 #. Click the **Checkbox** next to **Admin Down**
 #. Click **Update**
 
-.. note:: In order to shut down a port, the **read/write Community string** for that **Switch must** be specified
+.. note:: In order to shut down a port, the **read/write Community string** for that **Switch must** be specified.

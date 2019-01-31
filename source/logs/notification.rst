@@ -6,28 +6,11 @@ and third-party security products using various protocols.
 
 .. note:: Email Account needs to be configured on the Policy Server to send email notifications
 
-Setup Email Account
--------------------
-
-#. Go to **Preferences** in the top panel
-#. Go to **General > Miscellaneous** in the left **Preferences** panel
-
-Under **Email**
-
-#. For **Server Address:**, type server address (*e.g. smtp.gmail.com*)
-#. For **Server Port:**, type port number (*e.g. SSL=465, TLS/STARTTLS=587*)
-#. For **Sender Address:**, type address for sender (*Email Address to be displayed as from*)
-#. For **Sender Name:**, type name of sender (*Name to be displayed as from*)
-#. For **SSL Connection** (*Turn on if using SSL port*)
-#. For **Username**, type username
-#. For **Password**, type and re-type password
-#. Click **Update**
-#. Click **Test** to test configuration settings and send e-mail
-
 .. toctree::
    :maxdepth: 1
 
    notification-event
+   notification-email
    notification-snmp
    notification-syslog
    notification-webhook

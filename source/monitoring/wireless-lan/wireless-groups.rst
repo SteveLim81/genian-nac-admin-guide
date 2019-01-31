@@ -6,27 +6,27 @@ A **Wireless Group** is any detected amount of **SSIDs** that are grouped togeth
 Create a WLAN Group
 -------------------
 
-You can create WLAN Groups to better categorize your SSIDs
+You can create WLAN Groups to better categorize your SSIDs.
 
 #. Go to **Policy** in the top panel
 #. Go to **Group > WLAN** in the left Policy panel
 #. Click **Tasks > Create**
 
-Under **General**
+Under **General**:
 
 #. For **ID**, enter unique name
 #. For **Description**, type what this group consists of
 #. For **Status**, select **Enabled** from drop-down
 #. For **Generating Logs** turn **On** to show logs when SSIDs are added to the group
 
-Under **Condition**
+Under **Condition**:
 
 #. For **Boolean Operator**, choose **AND** to match all conditions, or **OR** to match any conditions
 #. For **Settings** click **Add** to add conditions
 
-Under **Settings**
+Under **Settings**:
 
-These are conditional settings that allow you to be specific in identifying SSIDs
+These are conditional settings that allow you to be specific in identifying SSIDs:
 
 #. For **Options**, you can select MAC, Protocol, SSID, Security Settings, Tag, and more
 #. For **Operator**, allows you to choose equal to, not equal to, contains, does not contain, and more
@@ -38,7 +38,7 @@ These are conditional settings that allow you to be specific in identifying SSID
 Assign a WLAN Tag
 -----------------
 
-You can Tag SSIDs to help categorize them and to build Policies using these Tags
+You can Tag SSIDs to help categorize them and to build Policies using these Tags:
 
 #. Go to **Management > WLAN** in the top panel
 #. Find and click **Checkbox** of desired **SSIDs**
@@ -54,7 +54,7 @@ Under **Assign WLAN Tag**
 Assign a WLAN Group
 -------------------
 
-You can group SSIDs that are similar to each other based off of Tags, SSID Name, Vendor, Security Settings, Protocol, and more
+You can group SSIDs that are similar to each other based off of Tags, SSID Name, Vendor, Security Settings, Protocol, and more.
 
 #. Go to **Management > WLAN** in the top panel
 #. Find and click **Checkbox** of desired **SSIDs**
@@ -71,7 +71,7 @@ Under **Assign WLAN Group**
 Group by Network Sensor
 -----------------------
 
-If you have many Network Sensors, it is difficult to manage all of these in one list. Here you have the ability to create groups and assign **Network Sensors** to them
+If you have many Network Sensors, it is difficult to manage all of these in one list. Here you have the ability to create groups and assign **Network Sensors** to them.
 
 #. Go to **Management > WLAN** in the top panel
 #. Click **Edit Tree icon** in the top right corner
@@ -80,4 +80,4 @@ If you have many Network Sensors, it is difficult to manage all of these in one 
 #. Search for **Network Sensor** and select each **Checkbox** you want to add to this group
 #. Click **OK**
 
-.. note:: If you have a presence around the world you can create **Country Groups** and add **Network Sensors** that are located wsithin those countries
+.. note:: If you have a presence around the world you can create **Country Groups** and add **Network Sensors** that are located wsithin those countries.
