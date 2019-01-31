@@ -21,7 +21,7 @@ The network sensor is located in each network segment, monitors the network, col
 The network sensor is connected to a regular network access port and does not require special settings such as port mirroring.
 However, when collecting several VLAN information with one physical sensor, it should be configured as a trunk port through 802.1Q.
 
-Since network sensors must monitor the network's brokcast packets, they can only collect information about devices in the same segment.
+Since network sensors must monitor the network's broadcast packets, they can only collect information about devices in the same segment.
 For this reason, a separate network sensor must be installed in a WAN-configured network such as a branch office.
 
 The network sensor may be operated on the same system as the policy server or may be constituted by an independent system
