@@ -31,6 +31,7 @@ Signup at `GitHub`_
 .. code:: bash
    
  # git clone https://github.com/USERNAME/genian-nac-admin-guide
+ # cd genian-nac-admin-guide
  # git remote add upstream https://github.com/USERNAME/genian-nac-admin-guide
 
 
